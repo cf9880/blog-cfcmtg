@@ -1,0 +1,25 @@
+# To switch to the custom domain: change baseURL to "https://blog.cfcmtg.com/" and add static/CNAME containing "blog.cfcmtg.com"
+baseURL = "https://cf9880.github.io/blog-cfcmtg/"
+languageCode = "en-us"
+title = "Coastal Funding Blog"
+enableRobotsTXT = true
+[outputs]
+  home = ["HTML", "RSS"]
+[sitemap]
+  changefreq = "weekly"
+[params]
+  description = "Mortgage tips, loan program guides and market insights from Coastal Funding Corporation, serving FL, SC and TN since 2004."
+  brand = "Coastal Funding Corporation"
+  tagline = "More Lenders, More Options, Better Mortgages"
+  phone = "(833) 457-6500"
+  nmls = "103035"
+  email = "info@cfcmtg.com"
+  mainsite = "https://www.cfcmtg.com/"
+  maindomain = "www.cfcmtg.com"
+  city = "Pensacola"
+  region = "FL"
+  street = "534 S Navy Blvd"
+  area = "Florida, South Carolina & Tennessee"
+  bg = "#111111"
+  accent = "#b8860b"
+  accent2 = "#FFD700"
