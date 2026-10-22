@@ -1,5 +1,5 @@
-# To switch to the custom domain: change baseURL to "https://blog.cfcmtg.com/" and add static/CNAME containing "blog.cfcmtg.com"
-baseURL = "https://cf9880.github.io/blog-cfcmtg/"
+# Custom domain: blog.cfcmtg.com (static/CNAME)
+baseURL = "https://blog.cfcmtg.com/"
 languageCode = "en-us"
 title = "Coastal Funding Blog"
 enableRobotsTXT = true
