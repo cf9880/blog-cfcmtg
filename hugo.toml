@@ -8,6 +8,7 @@ enableRobotsTXT = true
 [sitemap]
   changefreq = "weekly"
 [params]
+logo = "images/logo.png"
   publisher = "Coastal Funding Corporation"
   description = "Mortgage tips, loan program guides and market insights from Coastal Funding Corporation, serving FL, SC and TN since 2004."
   brand = "Coastal Funding Corporation"
